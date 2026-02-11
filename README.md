@@ -37,8 +37,8 @@ A high-performance, standalone Java implementation of the **PX4 ULog file format
 ### 1. Build the JAR
 Clone the repository and build using Maven:
 ```bash
-git clone https://github.com/YOUR_USERNAME/ulog-reader-java.git
-cd ulog-reader-java
+git clone https://github.com/FurqanShafiq11/JavaULog.git
+cd JavaULog
 mvn clean install
 ```
 
