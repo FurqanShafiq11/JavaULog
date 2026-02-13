@@ -1,9 +1,3 @@
-To make the README more professional and organized, we will use **collapsible sections, tables, and a clear hierarchy**. This makes it easy for both "quick-start" users and "deep-dive" developers to find what they need.
-
-Copy and paste this into your `README.md`:
-
----
-
 # 🛸 ULog Reader for Java
 
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
